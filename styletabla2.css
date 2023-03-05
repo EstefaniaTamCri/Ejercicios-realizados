@@ -1,0 +1,21 @@
+table{
+width: 90%;
+padding: 2%;
+border-spacing: 0px;
+
+}
+th, td{
+    font-size: large;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.header{
+    background-color: rgb(234, 59, 59);
+    color: rgb(234, 236, 247);
+   
+}
+.secondcolor{
+    background-color:rgb(234, 236, 247) ;
+}

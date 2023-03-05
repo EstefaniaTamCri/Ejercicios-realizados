@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(18, 17, 17);
+}
+
+label {
+    display: block;
+    padding-top: 50px;
+
+}
+
+div {
+    background-color: rgb(33, 33, 88);
+    border-radius: 11px;
+    margin: 50px auto;
+    padding: 20px;
+    width: 30%;
+    color: white;
+}
+
+button {
+    background-color: rgb(21, 96, 139);
+    width: 100%;
+    padding: 4%;
+    margin-top: 5%;
+    border-radius: 10px;
+    font-size: x-large;
+    color: white;
+    border: none;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+#firstname,
+#lastname,
+#email {
+    background-color: rgb(61, 61, 104);
+    color: rgb(126, 129, 195);
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: x-large;
+    border: none;
+    border-radius: 11px;
+    width: 95%;
+    padding-left: 5%;
+}
+
+.secondp {
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+
+.firstp {
+    font-size: 4rem;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
